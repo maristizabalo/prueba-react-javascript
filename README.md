@@ -40,7 +40,7 @@ Dado un arreglo con arrays anidados, se realizó lo siguiente:
 
 Cada ejercicio de JavaScript muestra:
 
-- Botones por cada valor del arreglo (color personalizado).
+- Botones por cada valor del arreglo (#E6F6F5).
 - Resultados claramente separados y organizados con etiquetas diferenciadas para cada salida.
 
 ## Organización General
