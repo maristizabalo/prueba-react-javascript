@@ -1,7 +1,10 @@
+import Spinner from "./components/Spinner"
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Spinner />
+    </div>
   )
 }
 
